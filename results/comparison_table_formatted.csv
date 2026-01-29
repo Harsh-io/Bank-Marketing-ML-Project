@@ -1,0 +1,5 @@
+Model,Train Accuracy,Test Accuracy,Train Precision,Test Precision,Train Recall,Test Recall,Train F1-Score,Test F1-Score,Train ROC-AUC,Test ROC-AUC
+Gradient Boosting,0.9365,0.9228,0.7680,0.6891,0.6250,0.5733,0.6891,0.6259,0.9637,0.9545
+Decision Tree,0.9352,0.9144,0.7632,0.6521,0.6156,0.5151,0.6815,0.5756,0.9649,0.8922
+Random Forest,0.9544,0.9175,0.9382,0.7214,0.6377,0.4353,0.7593,0.5430,0.9816,0.9503
+Logistic Regression,0.9101,0.9161,0.6601,0.7083,0.4159,0.4343,0.5103,0.5384,0.9347,0.9425
